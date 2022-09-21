@@ -1,0 +1,5 @@
+package oop1;
+
+public class IndividualCustomer extends Customer{ //extends=genişletmek, diğer classdan verileri/değerleri buraya da almış oluruz
+
+}

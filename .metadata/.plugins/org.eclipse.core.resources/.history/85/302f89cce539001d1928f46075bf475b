@@ -1,0 +1,10 @@
+package oop1;
+
+public class Product {
+	private String name;
+	private double unitPrice;
+	private double discount; //indirim oranı
+	private String imageUrl;
+	private int unitsInStock; // private yapınca sadece bu class da kullanılabilir oluyor.
+	
+}
